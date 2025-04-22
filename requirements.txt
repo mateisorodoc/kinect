@@ -1,0 +1,9 @@
+collections2
+typing-extensions
+logging
+opencv-python
+numpy
+pillow
+ultralytics
+scikit-image 
+filterpy 
